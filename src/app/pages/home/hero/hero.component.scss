@@ -1,0 +1,58 @@
+.title-hero{
+    color: black;
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.tagline{
+    font-size: 1.3rem;
+}
+
+.btn-daftar{
+    background-color:#f7b13a;
+    color: rgb(0, 0, 0);
+}
+
+.btn-store {
+    color: #000000;
+    min-width: 254px;
+    padding: 12px 20px ;
+    border-color: #dddddd ;
+  }
+  
+  .btn-store:focus, 
+  .btn-store:hover {
+    color: #ffffff ;
+    background-color: #f7b13a;
+    border-color: #f7b13a ;
+  }
+  
+  .btn-store .btn-label, 
+  .btn-store .btn-caption {
+    display: block;
+    text-align: left;
+    line-height: 1;
+  }
+  
+  .btn-store .btn-caption {
+    font-size: 24px;
+  }
+
+  .logo-btn{
+    font-size: 2.2rem;
+    margin-right: 5px;
+  }
+
+  .container-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .btn-investasi{
+    background-color: #f7b13a;
+    padding: 12px 20px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+  }

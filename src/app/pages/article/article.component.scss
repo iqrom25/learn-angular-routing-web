@@ -1,0 +1,35 @@
+#carouselExampleCaptions{
+    width: 70rem;
+    max-width: 90vw;
+    margin: 0 auto;
+}
+
+
+#carouselExampleCaptions img{
+    max-width: 100vw;
+}
+
+.card-img-top{
+    height: 15rem;
+}
+
+.carousel-article-title{
+    font-size: 2rem;
+}
+.card-body h5{
+    font-weight: 900;
+}
+
+.article-date{
+    color: rgb(65, 65, 65);
+    font-weight: lighter;
+    font-size: 0.9rem;
+    margin-left: 10px;
+}
+
+.article-wrapper{
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 10px; 
+    justify-content: center;
+}
